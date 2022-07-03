@@ -1,6 +1,6 @@
 # Todo app
 
-Todo list app that helps to complete all your goals
+Todo list app that helps to complete all your goals using Flutter framework. The application was built using Provider as a State Management tool.
 
 ## Screenshots
 
